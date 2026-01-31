@@ -1,0 +1,380 @@
+ADDRESS: https://en.wikipedia.org/wiki/Special:SpecialPages
+==================================================
+This page contains a list of  [LINK: (special pages) -> https://en.wikipedia.org/wiki/Help:Special_page] . Most of the content of these pages is automatically generated and cannot be edited. To suggest a change to the parts that can be edited, find the appropriate text on  [LINK: (Special:AllMessages) -> https://en.wikipedia.org/wiki/Special:AllMessages]  and then request your change on the talk page of the message (using {{ [LINK: (editprotected) -> https://en.wikipedia.org/wiki/Template:Edit_fully-protected] }} to draw the attention of administrators).
+
+You can also see what message names are used on a page by adding ?uselang=qqx to the end of its URL, e.g.  [LINK: (https://en.wikipedia.org/wiki/Special:SpecialPages?uselang=qqx) -> https://en.wikipedia.org/wiki/Special:SpecialPages?uselang=qqx]  will show (specialpages-summary) in place of this message, which allows you to find  [LINK: (MediaWiki:Specialpages-summary) -> https://en.wikipedia.org/wiki/MediaWiki:Specialpages-summary] .
+
+For an index of special pages, see  [LINK: (Help:SpecialPages) -> https://en.wikipedia.org/wiki/Help:SpecialPages#Alphabetical_order] .
+
+
+# MAINTENANCE REPORTS #
+
+[LINK: (Broken redirects) -> https://en.wikipedia.org/wiki/Special:BrokenRedirects]
+
+[LINK: (Dead-end pages) -> https://en.wikipedia.org/wiki/Special:DeadendPages]
+
+[LINK: (Dormant pages) -> https://en.wikipedia.org/wiki/Special:AncientPages]
+
+[LINK: (Double redirects) -> https://en.wikipedia.org/wiki/Special:DoubleRedirects]
+
+[LINK: (Lint errors) -> https://en.wikipedia.org/wiki/Special:LintErrors]
+
+[LINK: (Long pages) -> https://en.wikipedia.org/wiki/Special:LongPages]
+
+[LINK: (Orphaned pages) -> https://en.wikipedia.org/wiki/Special:LonelyPages]
+
+[LINK: (Pages not connected to items) -> https://en.wikipedia.org/wiki/Special:UnconnectedPages]
+
+[LINK: (Pages with the fewest revisions) -> https://en.wikipedia.org/wiki/Special:FewestRevisions]
+
+[LINK: (Pages without language links) -> https://en.wikipedia.org/wiki/Special:WithoutInterwiki]
+
+[LINK: (Protected pages) -> https://en.wikipedia.org/wiki/Special:ProtectedPages]
+
+[LINK: (Protected titles) -> https://en.wikipedia.org/wiki/Special:ProtectedTitles]
+
+[LINK: (Short pages) -> https://en.wikipedia.org/wiki/Special:ShortPages]
+
+[LINK: (Uncategorized categories) -> https://en.wikipedia.org/wiki/Special:UncategorizedCategories]
+
+[LINK: (Uncategorized files) -> https://en.wikipedia.org/wiki/Special:UncategorizedFiles]
+
+[LINK: (Uncategorized pages) -> https://en.wikipedia.org/wiki/Special:UncategorizedPages]
+
+[LINK: (Uncategorized templates) -> https://en.wikipedia.org/wiki/Special:UncategorizedTemplates]
+
+[LINK: (Unused categories) -> https://en.wikipedia.org/wiki/Special:UnusedCategories]
+
+[LINK: (Unused files) -> https://en.wikipedia.org/wiki/Special:UnusedFiles]
+
+[LINK: (Unused templates) -> https://en.wikipedia.org/wiki/Special:UnusedTemplates]
+
+[LINK: (Wanted categories) -> https://en.wikipedia.org/wiki/Special:WantedCategories]
+
+[LINK: (Wanted files) -> https://en.wikipedia.org/wiki/Special:WantedFiles]
+
+[LINK: (Wanted pages) -> https://en.wikipedia.org/wiki/Special:WantedPages]
+
+[LINK: (Wanted templates) -> https://en.wikipedia.org/wiki/Special:WantedTemplates]
+
+
+# LISTS OF PAGES #
+
+[LINK: (All pages) -> https://en.wikipedia.org/wiki/Special:AllPages]
+
+[LINK: (All pages with prefix) -> https://en.wikipedia.org/wiki/Special:PrefixIndex]
+
+[LINK: (Categories) -> https://en.wikipedia.org/wiki/Special:Categories]
+
+[LINK: (Category tree) -> https://en.wikipedia.org/wiki/Special:CategoryTree]
+
+[LINK: (Disambiguation pages) -> https://en.wikipedia.org/wiki/Special:DisambiguationPages]
+
+[LINK: (Entity usage) -> https://en.wikipedia.org/wiki/Special:EntityUsage]
+
+[LINK: (External links search) -> https://en.wikipedia.org/wiki/Special:LinkSearch]
+
+[LINK: (Pages linking to disambiguation pages) -> https://en.wikipedia.org/wiki/Special:DisambiguationPageLinks]
+
+[LINK: (Pages on topics near you) -> https://en.wikipedia.org/wiki/Special:Nearby]
+
+[LINK: (Pages with a page property) -> https://en.wikipedia.org/wiki/Special:PagesWithProp]
+
+[LINK: (Pages with badges) -> https://en.wikipedia.org/wiki/Special:PagesWithBadges]
+
+[LINK: (Redirects) -> https://en.wikipedia.org/wiki/Special:ListRedirects]
+
+[LINK: (Search) -> https://en.wikipedia.org/wiki/Special:Search]
+
+[LINK: (Tracking categories) -> https://en.wikipedia.org/wiki/Special:TrackingCategories]
+
+
+# ACCOUNT MANAGEMENT #
+
+[LINK: (Bot passwords) -> https://en.wikipedia.org/wiki/Special:BotPasswords]
+
+[LINK: (Change credentials) -> https://en.wikipedia.org/wiki/Special:ChangeCredentials]
+
+[LINK: (Change or remove email address) -> https://en.wikipedia.org/wiki/Special:ChangeEmail]
+
+[LINK: (Global preferences) -> https://en.wikipedia.org/wiki/Special:GlobalPreferences]
+
+[LINK: (Global user account rename request) -> https://en.wikipedia.org/wiki/Special:GlobalRenameRequest]
+
+[LINK: (Global user account vanish request) -> https://en.wikipedia.org/wiki/Special:GlobalVanishRequest]
+
+[LINK: (Log in) -> https://en.wikipedia.org/wiki/Special:UserLogin]
+
+[LINK: (Log out) -> https://en.wikipedia.org/wiki/Special:UserLogout]
+
+[LINK: (Login unification status) -> https://en.wikipedia.org/wiki/Special:MergeAccount]
+
+[LINK: (Notifications) -> https://en.wikipedia.org/wiki/Special:Notifications]
+
+[LINK: (Preferences) -> https://en.wikipedia.org/wiki/Special:Preferences]
+
+[LINK: (Remove credentials) -> https://en.wikipedia.org/wiki/Special:RemoveCredentials]
+
+[LINK: (Reset password) -> https://en.wikipedia.org/wiki/Special:PasswordReset]
+
+[LINK: (Reset tokens) -> https://en.wikipedia.org/wiki/Special:ResetTokens]
+
+[LINK: (Topic subscriptions) -> https://en.wikipedia.org/wiki/Special:TopicSubscriptions]
+
+
+# USERS AND RIGHTS #
+
+[LINK: (Active users list) -> https://en.wikipedia.org/wiki/Special:ActiveUsers]
+
+[LINK: (Autoblocks) -> https://en.wikipedia.org/wiki/Special:AutoblockList]
+
+[LINK: (Blocked users) -> https://en.wikipedia.org/wiki/Special:BlockList]
+
+[LINK: (Create account) -> https://en.wikipedia.org/wiki/Special:CreateAccount]
+
+[LINK: (Email user) -> https://en.wikipedia.org/wiki/Special:EmailUser]
+
+[LINK: (Global account manager) -> https://en.wikipedia.org/wiki/Special:CentralAuth]
+
+[LINK: (Global accounts list) -> https://en.wikipedia.org/wiki/Special:GlobalUsers]
+
+[LINK: (Global group management) -> https://en.wikipedia.org/wiki/Special:GlobalGroupPermissions]
+
+[LINK: (Grants) -> https://en.wikipedia.org/wiki/Special:ListGrants]
+
+[LINK: (List OAuth applications) -> https://en.wikipedia.org/wiki/Special:OAuthListConsumers]
+
+[LINK: (List of globally blocked IP addresses and accounts) -> https://en.wikipedia.org/wiki/Special:GlobalBlockList]
+
+[LINK: (Membership in global groups) -> https://en.wikipedia.org/wiki/Special:GlobalUserRights]
+
+[LINK: (OAuth consumer registration) -> https://en.wikipedia.org/wiki/Special:OAuthConsumerRegistration]
+
+[LINK: (Password policies) -> https://en.wikipedia.org/wiki/Special:PasswordPolicies]
+
+[LINK: (Search for global contributions) -> https://en.wikipedia.org/wiki/Special:GlobalContributions]
+
+[LINK: (User contributions) -> https://en.wikipedia.org/wiki/Special:Contributions]
+
+[LINK: (User group rights) -> https://en.wikipedia.org/wiki/Special:ListGroupRights]
+
+[LINK: (User groups management) -> https://en.wikipedia.org/wiki/Special:UserRights]
+
+[LINK: (Users) -> https://en.wikipedia.org/wiki/Special:ListUsers]
+
+
+# RECENT CHANGES AND LOGS #
+
+[LINK: (Edit Recovery) -> https://en.wikipedia.org/wiki/Special:EditRecovery]
+
+[LINK: (Edit filter log) -> https://en.wikipedia.org/wiki/Special:AbuseLog]
+
+[LINK: (Gallery of new files) -> https://en.wikipedia.org/wiki/Special:NewFiles]
+
+[LINK: (New pages) -> https://en.wikipedia.org/wiki/Special:NewPages]
+
+[LINK: (New pages feed) -> https://en.wikipedia.org/wiki/Special:NewPagesFeed]
+
+[LINK: (Recent changes) -> https://en.wikipedia.org/wiki/Special:RecentChanges]
+
+[LINK: (Related changes) -> https://en.wikipedia.org/wiki/Special:RecentChangesLinked]
+
+[LINK: (User logs) -> https://en.wikipedia.org/wiki/Special:Log]
+
+[LINK: (Valid change tags) -> https://en.wikipedia.org/wiki/Special:Tags]
+
+
+# MEDIA REPORTS AND UPLOADS #
+
+[LINK: (File list) -> https://en.wikipedia.org/wiki/Special:ListFiles]
+
+[LINK: (Global data usage) -> https://en.wikipedia.org/wiki/Special:GlobalJsonLinks]
+
+[LINK: (Global file usage) -> https://en.wikipedia.org/wiki/Special:GlobalUsage]
+
+[LINK: (List of files with duplicates) -> https://en.wikipedia.org/wiki/Special:ListDuplicatedFiles]
+
+[LINK: (MIME search) -> https://en.wikipedia.org/wiki/Special:MIMESearch]
+
+[LINK: (Media statistics) -> https://en.wikipedia.org/wiki/Special:MediaStatistics]
+
+[LINK: (Orphaned TimedText pages) -> https://en.wikipedia.org/wiki/Special:OrphanedTimedText]
+
+[LINK: (Search for duplicate files) -> https://en.wikipedia.org/wiki/Special:FileDuplicateSearch]
+
+
+# DATA AND TOOLS #
+
+[LINK: (API feature usage) -> https://en.wikipedia.org/wiki/Special:ApiFeatureUsage]
+
+[LINK: (API sandbox) -> https://en.wikipedia.org/wiki/Special:ApiSandbox]
+
+[LINK: (Book sources) -> https://en.wikipedia.org/wiki/Special:BookSources]
+
+[LINK: (Edit checks) -> https://en.wikipedia.org/wiki/Special:EditChecks]
+
+[LINK: (Edit filter configuration) -> https://en.wikipedia.org/wiki/Special:AbuseFilter]
+
+[LINK: (Expand templates) -> https://en.wikipedia.org/wiki/Special:ExpandTemplates]
+
+[LINK: (Gadget usage statistics) -> https://en.wikipedia.org/wiki/Special:GadgetUsage]
+
+[LINK: (Gadgets) -> https://en.wikipedia.org/wiki/Special:Gadgets]
+
+[LINK: (Namespace information) -> https://en.wikipedia.org/wiki/Special:NamespaceInfo]
+
+[LINK: (REST Sandbox) -> https://en.wikipedia.org/wiki/Special:RestSandbox]
+
+[LINK: (Statistics) -> https://en.wikipedia.org/wiki/Special:Statistics]
+
+[LINK: (System messages) -> https://en.wikipedia.org/wiki/Special:AllMessages]
+
+[LINK: (Template sandbox) -> https://en.wikipedia.org/wiki/Special:TemplateSandbox]
+
+[LINK: (Try hieroglyph markup) -> https://en.wikipedia.org/wiki/Special:Hieroglyphs]
+
+[LINK: (Version) -> https://en.wikipedia.org/wiki/Special:Version]
+
+[LINK: (View interwiki data) -> https://en.wikipedia.org/wiki/Special:Interwiki]
+
+[LINK: (Wiki sets) -> https://en.wikipedia.org/wiki/Special:WikiSets]
+
+[LINK: (Wikimedia wikis) -> https://en.wikipedia.org/wiki/Special:SiteMatrix]
+
+
+# REDIRECTING SPECIAL PAGES #
+
+[LINK: (Delete a page) -> https://en.wikipedia.org/wiki/Special:DeletePage]
+
+[LINK: (Differences) -> https://en.wikipedia.org/wiki/Special:Diff]
+
+[LINK: (Edit a page) -> https://en.wikipedia.org/wiki/Special:EditPage]
+
+[LINK: (New section) -> https://en.wikipedia.org/wiki/Special:NewSection]
+
+[LINK: (Page history) -> https://en.wikipedia.org/wiki/Special:PageHistory]
+
+[LINK: (Page info) -> https://en.wikipedia.org/wiki/Special:PageInfo]
+
+[LINK: (Permanent link) -> https://en.wikipedia.org/wiki/Special:PermanentLink]
+
+[LINK: (Protect a page) -> https://en.wikipedia.org/wiki/Special:ProtectPage]
+
+[LINK: (Purge) -> https://en.wikipedia.org/wiki/Special:Purge]
+
+[LINK: (Random article) -> https://en.wikipedia.org/wiki/Special:Random]
+
+[LINK: (Random page in category) -> https://en.wikipedia.org/wiki/Special:RandomInCategory]
+
+[LINK: (Random redirect) -> https://en.wikipedia.org/wiki/Special:RandomRedirect]
+
+[LINK: (Random root page) -> https://en.wikipedia.org/wiki/Special:RandomRootpage]
+
+[LINK: (Redirect by file, user, page, revision, or log ID) -> https://en.wikipedia.org/wiki/Special:Redirect]
+
+
+# HIGH USE PAGES #
+
+[LINK: (Most linked-to categories) -> https://en.wikipedia.org/wiki/Special:MostLinkedCategories]
+
+[LINK: (Most linked-to files) -> https://en.wikipedia.org/wiki/Special:MostLinkedFiles]
+
+[LINK: (Most linked-to pages) -> https://en.wikipedia.org/wiki/Special:MostLinkedPages]
+
+[LINK: (Most transcluded pages) -> https://en.wikipedia.org/wiki/Special:MostTranscludedPages]
+
+[LINK: (Pages with the most categories) -> https://en.wikipedia.org/wiki/Special:MostCategories]
+
+[LINK: (Pages with the most interwikis) -> https://en.wikipedia.org/wiki/Special:MostInterwikis]
+
+[LINK: (Pages with the most revisions) -> https://en.wikipedia.org/wiki/Special:MostRevisions]
+
+
+# PAGE TOOLS #
+
+[LINK: (Book) -> https://en.wikipedia.org/wiki/Special:Book]
+
+[LINK: (Cite This Page) -> https://en.wikipedia.org/wiki/Special:CiteThisPage]
+
+[LINK: (Compare pages) -> https://en.wikipedia.org/wiki/Special:ComparePages]
+
+[LINK: (Export pages) -> https://en.wikipedia.org/wiki/Special:Export]
+
+[LINK: (Mass delete) -> https://en.wikipedia.org/wiki/Special:Nuke]
+
+[LINK: (Page assessments) -> https://en.wikipedia.org/wiki/Special:PageAssessments]
+
+[LINK: (QR Code Generator) -> https://en.wikipedia.org/wiki/Special:QrCode]
+
+[LINK: (URL Shortener) -> https://en.wikipedia.org/wiki/Special:UrlShortener]
+
+[LINK: (What links here) -> https://en.wikipedia.org/wiki/Special:WhatLinksHere]
+
+
+# SPAM TOOLS #
+
+[LINK: (Blocked External Domains) -> https://en.wikipedia.org/wiki/Special:BlockedExternalDomains]
+
+
+# GROWTH TOOLS #
+
+[LINK: (Impact) -> https://en.wikipedia.org/wiki/Special:Impact]
+
+[LINK: (Manage mentors) -> https://en.wikipedia.org/wiki/Special:ManageMentors]
+
+[LINK: (Mentor dashboard) -> https://en.wikipedia.org/wiki/Special:MentorDashboard]
+
+[LINK: (Newcomer Tasks) -> https://en.wikipedia.org/wiki/Special:NewcomerTasksInfo]
+
+
+# EVENTS #
+
+[LINK: (All events) -> https://en.wikipedia.org/wiki/Special:AllEvents]
+
+[LINK: (Cancel your registration for an event) -> https://en.wikipedia.org/wiki/Special:CancelEventRegistration]
+
+[LINK: (Delete event registration) -> https://en.wikipedia.org/wiki/Special:DeleteEventRegistration]
+
+[LINK: (Edit event registration) -> https://en.wikipedia.org/wiki/Special:EditEventRegistration]
+
+[LINK: (Event details) -> https://en.wikipedia.org/wiki/Special:EventDetails]
+
+[LINK: (Generate invitation list) -> https://en.wikipedia.org/wiki/Special:GenerateInvitationList]
+
+[LINK: (Invitation list) -> https://en.wikipedia.org/wiki/Special:InvitationList]
+
+[LINK: (Register for an event) -> https://en.wikipedia.org/wiki/Special:RegisterForEvent]
+
+[LINK: (Your events) -> https://en.wikipedia.org/wiki/Special:MyEvents]
+
+[LINK: (Your invitation lists) -> https://en.wikipedia.org/wiki/Special:MyInvitationLists]
+
+
+# PENDING CHANGES #
+
+[LINK: (Page review statistics) -> https://en.wikipedia.org/wiki/Special:ValidationStatistics]
+
+[LINK: (Pages using Pending Changes) -> https://en.wikipedia.org/wiki/Special:StablePages]
+
+[LINK: (Pages with edits awaiting review) -> https://en.wikipedia.org/wiki/Special:PendingChanges]
+
+
+# OTHER SPECIAL PAGES #
+
+[LINK: (Automatic translation) -> https://en.wikipedia.org/wiki/Special:AutomaticTranslation]
+
+[LINK: (Community Configuration) -> https://en.wikipedia.org/wiki/Special:CommunityConfiguration]
+
+[LINK: (Contribute) -> https://en.wikipedia.org/wiki/Special:Contribute]
+
+[LINK: (Discussion tools data structure) -> https://en.wikipedia.org/wiki/Special:DiscussionToolsDebug]
+
+[LINK: (Find comment) -> https://en.wikipedia.org/wiki/Special:FindComment]
+
+[LINK: (Global rename progress) -> https://en.wikipedia.org/wiki/Special:GlobalRenameProgress]
+
+[LINK: (Math Formula Information) -> https://en.wikipedia.org/wiki/Special:MathWikibase]
+
+[LINK: (ORES model statistics) -> https://en.wikipedia.org/wiki/Special:ORESModels]
+
+[LINK: (SecurePoll) -> https://en.wikipedia.org/wiki/Special:SecurePoll]
